@@ -1,4 +1,12 @@
+using TCDDBiletlemeAPI.Models;
+using TCDDBiletlemeAPI.Services;
+
 var builder = WebApplication.CreateBuilder(args);
+
+// mongodb settings 
+builder.Services.Configure<MongoDBSetting>(builder.Configuration.GetSection("MongoDB"));
+builder.Services.AddSingleton<MongoDBServices>();
+
 
 // Add services to the container.
 
