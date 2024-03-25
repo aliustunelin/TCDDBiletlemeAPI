@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qQrSBkF/SxEK9oXoDFbR6TtD60FbGuv4qeb1OgOKQOWTJVuo9cZRwO+09BzbG5gZ1dbAK5rLrhaH5QB3X7uGdg==",
+  "success": true,
+  "projectFilePath": "/Users/alistnel/Desktop/fehva/work/dotnet/BuberBreakfast_API/BuberBreakfast/BuberBreakfast/BuberBreakfast.csproj",
+  "expectedPackageFiles": [
+    "/Users/alistnel/.nuget/packages/erroror/1.10.0/erroror.1.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}
